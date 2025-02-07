@@ -1,0 +1,29 @@
+
+body{
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    text-align: left;
+    background-color: white;
+    font-family: Arial;
+    margin: 20;
+    padding: 80px;
+}
+
+
+h1{
+    border-top-style: solid;
+}
+h3{
+    color: seagreen;
+    font-size: 18px;
+    font-family: Arial;
+   
+}
+
+#p1{
+    color: blue;
+    font-size: 20px;
+    font-family: Arial;
+}
